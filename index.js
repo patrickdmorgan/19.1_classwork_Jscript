@@ -1,3 +1,6 @@
 // Create a variable below
-<script>"js/index.js"</script>
+var helloWorld = "Hello World!";
+
 // Console.log() your variable here.
+console.log(helloWorld);
+
